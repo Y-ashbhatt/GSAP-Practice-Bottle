@@ -69,3 +69,52 @@ body {
   gap: 2vmax;
   border-right: 2px solid rgb(43, 42, 42);
 }
+
+#bottle {
+  position: absolute;
+  height: 95vh;
+  top: 0%;
+  left: 38%;
+  z-index: 990;
+  border-image: 0 0 2vmax black;
+}
+#bottlecopy {
+  display: none;
+}
+
+/* Page1 Css */
+
+#page1 {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+#page1 h1 {
+  width: 85vw;
+  background-color: rgb(154, 23, 23);
+  font-family: "Antom", sans-serif;
+  font-size: 13vw;
+  font-weight: 900;
+  text-align: center;
+  word-spacing: -1.5vw;
+  text-transform: uppercase;
+  line-height: 12vw;
+  background-image: url(img/texture.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-font-smoothing: antialiased;
+}
+#page1_dog_image {
+  height: 15vh;
+  position: absolute;
+  top: 17%;
+  left: 34.5%;
+  transform: rotate(-30deg);
+}

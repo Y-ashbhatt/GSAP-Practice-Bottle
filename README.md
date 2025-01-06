@@ -1,4 +1,4 @@
-# Scroll-Triggered Animation with GSAP and LocomotiveScroll
+# [Scroll-Triggered Animation with GSAP and LocomotiveScroll](https://y-ashbhatt.github.io/GSAP-Practice-Bottle/)
 
 A smooth scrolling web experience integrating **GSAP's ScrollTrigger** and **LocomotiveScroll** to create dynamic and visually engaging animations tied to scroll events.
 
@@ -46,21 +46,6 @@ A smooth scrolling web experience integrating **GSAP's ScrollTrigger** and **Loc
 
 ---
 
-## Usage
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   ```
-
-2. Install dependencies (if any):  
-   ```bash
-   npm install
-   ```
-
-3. Open `index.html` in your browser to explore the animations.  
-
----
 
 ## Author
 

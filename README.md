@@ -49,7 +49,6 @@ A smooth scrolling web experience integrating **GSAP's ScrollTrigger** and **Loc
 
 ## Author
 
-👨‍💻 **[Your Name]**  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
-- **Portfolio**: [Your Portfolio Link](https://yourportfolio.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+**Yash Bhatt**  
+[GitHub](https://github.com/y-ashbhatt)  
+[LinkedIn](https://www.linkedin.com/in/yashbhatt30)
